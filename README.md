@@ -22,9 +22,11 @@ _nothing .\_._
   - must be correctly licensed!
 - biography / cv /
   - contact information _(or better a contact form)_
+- cookbook / recepies
 
 ### Shelved Ideas
 
 luckily nothing yet
 
-> authored by Combifightet
+> authored by Combifightet \
+> Licensed under [Creative Commons Attribution NonCommercial ShareAlike 4.0 - (`CC-BY-NC-SA-4.0`)](LICENSE.md)
