@@ -1,12 +1,12 @@
-# [Combifightet.github.io](https://combifightet.github.io/)
+# [combifightet.github.io](https://combifightet.github.io/)
 
-This website should be designed mostly using `html`, `css` and `js` and will be used for learing aforementioned "programming languages".
+This website should be designed mostly using `html`, `css` and `js` and will be used for learing aforementioned "programming" languages _(and python (django) + sqlite for the backend)_.
 
 Furthermore it should be able to be easily localised and dynamic themeing should be kept in mind.
 
 ## Currently working on
 
-_nothing .\_._
+The poetry frontend
 
 ## Feature Ideas
 
@@ -28,5 +28,9 @@ _nothing .\_._
 
 luckily nothing yet
 
+<br>
+
+---
+
 > authored by Combifightet \
-> Licensed under [Creative Commons Attribution NonCommercial ShareAlike 4.0 - (`CC-BY-NC-SA-4.0`)](LICENSE.md)
+> Licensed under [Creative Commons Attribution NonCommercial ShareAlike 4.0 - (`CC-BY-NC-SA-4.0`)](LICENSE)
