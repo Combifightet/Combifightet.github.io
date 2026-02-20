@@ -3,3 +3,45 @@
 	--foreground: light-dark(#020304, #fdfcfb);
 	--primary: light-dark(#316bed, #d76e77);
 }
+
+/* https://monaspace.githubnext.com/ */
+@font-face {
+	font-family: 'Monaspace Neon';  /*Noe-grotesque sans */
+	src: url('/assets/fonts/Monaspace\ Neon\ Var.woff2') format('woff2');
+	font-weight: 100 900;
+	font-style: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: 'Monaspace Argon';  /*Humanist sans */
+	src: url('/assets/fonts/Monaspace\ Argon\ Var.woff2') format('woff2');
+	font-weight: 100 900;
+	font-style: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: 'Monaspace Xenon';  /*Slab serif */
+	src: url('/assets/fonts/Monaspace\ Xenon\ Var.woff2') format('woff2');
+	font-weight: 100 900;
+	font-style: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: 'Monaspace Radon';  /*Handwriting */
+	src: url('/assets/fonts/Monaspace\ Radon\ Var.woff2') format('woff2');
+	font-weight: 100 900;
+	font-style: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: 'Monaspace Krypton';  /*Mechanical sans */
+	src: url('/assets/fonts/Monaspace\ Krypton\ Var.woff2') format('woff2');
+	font-weight: 100 900;
+	font-style: normal;
+	font-display: swap;
+}
+
+body {
+	background-color: var(--background);
+	color: var(--foreground);
+}
